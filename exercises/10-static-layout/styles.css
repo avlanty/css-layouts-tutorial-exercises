@@ -1,4 +1,26 @@
-/* your code here */
+.secondWrapper {
+	display: flex;
+}
+
+section {
+	width: 80%;
+	margin-left: 10px;
+}
+
+nav {
+	width: 20%;
+	height: 500px;
+	margin-right: 10px;
+}
+
+header {
+	height: 60px;
+	width: 100%;
+}
+
+* {
+	padding: %;
+}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
